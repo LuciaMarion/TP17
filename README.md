@@ -18,4 +18,4 @@ Fase 3: Post-Aprobación de Ciberseguridad
 | **Fase 1: Build & Package** | `Success` | Construcción correcta de la imagen Docker. |
 | **Fase 2A: Gitleaks - Andon Cord** | `Success` | Sin presencia de secretos en el código analizado. |
 | **Fase 2B: Gitleaks - Reporte** | `Success` | Reporte generado y subido a los artefactos. |
-| **Fase 3: Release & Deploy** | `Skipped` | Reservado para eventos de Release/Tagging. |
+| **Fase 3: Release & Deploy** | `Success` | Post-Aprobación de Ciberseguridad. |
